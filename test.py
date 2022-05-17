@@ -101,6 +101,7 @@ def main():
 
     print("==================================================")
     print("===> Finished !")
+    print("Hello world")
 
 if __name__ == '__main__':
     main()
